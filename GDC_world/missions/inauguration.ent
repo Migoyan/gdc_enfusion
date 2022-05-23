@@ -1,0 +1,12 @@
+SubScene {
+ Parent "worlds/Eden/Eden.ent"
+}
+Layer system {
+ Index 0
+}
+Layer ai {
+ Index 1
+}
+Layer players {
+ Index 2
+}

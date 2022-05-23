@@ -1,0 +1,8 @@
+GameProject {
+ ID "GDCworld"
+ GUID "596F191677A8E50D"
+ TITLE "GDC_world"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
